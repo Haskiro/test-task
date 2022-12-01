@@ -15,3 +15,6 @@ You can run test with the command:
 ```
 npm test
 ```
+## Contacts
+- tg: @Haspork
+- email: kondratev.pacha@mail.ru
